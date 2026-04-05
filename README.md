@@ -22,4 +22,4 @@ TrendPulse is a Python-based data pipeline project that collects, processes, ana
 
 ---
 
-## 📂 Project Structure# trendpulse-azaz
+📂 Project Structure# trendpulse-azaz
