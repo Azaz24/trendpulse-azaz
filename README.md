@@ -1,38 +1,77 @@
-# TrendPulse - Real-Time Trending Data Project
+# 🚀 TrendPulse - Real-Time Trending Data Analysis Pipeline
 
-##  Project Overview
-TrendPulse is a Python-based data pipeline project that collects, processes, analyzes, and visualizes trending data using APIs and data analysis techniques.
+## 📌 Project Overview
+TrendPulse is a Python-based data engineering and analytics project that collects, cleans, analyzes, and visualizes trending data. It demonstrates a complete data pipeline from raw JSON ingestion to structured insights using Pandas, NumPy, and data visualization techniques.
 
 ---
 
-##  Features
-- 📡 Fetch real-time trending data (Task 1)
-- 🧹 Clean and process raw data (Task 2)
-- 📊 Analyze trends and patterns (Task 3)
-- 📈 Visualize insights using graphs (Task 4)
+## 🎯 Objectives
+- Collect trending data from API / JSON sources  
+- Clean and transform raw messy datasets  
+- Perform exploratory data analysis (EDA)  
+- Extract meaningful insights from trends  
+- Visualize patterns for better understanding  
+
+---
+
+## ⚙️ Features
+
+- 📡 **Data Collection (Task 1)**  
+  Fetch and store raw trending data in JSON format  
+
+- 🧹 **Data Cleaning (Task 2)**  
+  - Remove duplicates  
+  - Handle missing values  
+  - Filter low-quality data  
+  - Standardize fields and formats  
+  - Export clean dataset to CSV  
+
+- 📊 **Data Analysis (Task 3)**  
+  - Category-wise trend analysis  
+  - Score and comment statistics  
+  - Top trending posts identification  
+  - NumPy-based statistical insights  
+
+- 📈 **Data Visualization (Task 4)**  
+  - Graphical representation of trends  
+  - Category distribution charts  
+  - Insight-driven visual analytics  
 
 ---
 
 ## 🛠 Tech Stack
-- Python 🐍
-- JSON / API Handling
-- Data Analysis
-- Matplotlib (Visualization)
-- Git & GitHub
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- JSON Handling  
+- Git & GitHub  
 
 ---
 
 ## 📂 Project Structure
-```
-trendpulse-azaz/
-│
-├── task1_data_collection.py
-├── task2_data_processing.py
-├── task3_analysis.py
-├── task4_visualization.py
-│
-├── data/
-│   └── trends_20260405.json
-│
-└── README.md
-```
+- Task 1 → Data Collection  
+- Task 2 → Data Cleaning & Processing  
+- Task 3 → Data Analysis & Insights  
+- Task 4 → Data Visualization  
+
+---
+
+## 📌 Key Learning Outcomes
+- End-to-end data pipeline development  
+- Real-world data cleaning techniques  
+- Exploratory data analysis (EDA)  
+- Statistical analysis using NumPy  
+- GitHub project management  
+
+---
+
+## 🚀 Status
+✔ Completed Tasks 1–3  
+🔄 Task 4 Visualization in progress  
+
+---
+
+## 👨‍💻 Author
+Azaz Ahmed  
+Python Data Analyst Project  
