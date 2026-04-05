@@ -1,93 +1,129 @@
 [
     {
+        "id": 47647788,
+        "title": "The threat is comfortable drift toward not understanding what you're doing",
+        "category": "worldnews",
+        "score": 20,
+        "comments": 3,
+        "author": "zaikunzhang",
+        "time": "2026-04-05 17:10"
+    },
+    {
         "id": 47640728,
         "title": "Show HN: A game where you build a GPU",
         "category": "sports",
-        "score": 689,
-        "comments": 149,
+        "score": 786,
+        "comments": 161,
         "author": "Jaso1024",
-        "time": "2026-04-05 14:02"
+        "time": "2026-04-05 17:10"
     },
     {
         "id": 47645432,
         "title": "Introduction to Computer Music (2009) [pdf]",
         "category": "entertainment",
-        "score": 137,
-        "comments": 44,
+        "score": 169,
+        "comments": 53,
         "author": "luu",
-        "time": "2026-04-05 14:02"
+        "time": "2026-04-05 17:10"
+    },
+    {
+        "id": 47590230,
+        "title": "Costco sued for seeking refunds on tariffs customers paid",
+        "category": "technology",
+        "score": 11,
+        "comments": 1,
+        "author": "AdmiralAsshat",
+        "time": "2026-04-05 17:10"
+    },
+    {
+        "id": 47646504,
+        "title": "Show HN: OsintRadar \u2013 Curated directory for osint tools",
+        "category": "entertainment",
+        "score": 16,
+        "comments": 1,
+        "author": "lexalizer",
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47613118,
         "title": "Show HN: I built a small app for FSI German Course",
         "category": "entertainment",
-        "score": 25,
-        "comments": 6,
+        "score": 39,
+        "comments": 13,
         "author": "syedmsawaid",
-        "time": "2026-04-05 14:02"
-    },
-    {
-        "id": 47645025,
-        "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
-        "category": "entertainment",
-        "score": 60,
-        "comments": 20,
-        "author": "waveywaves",
-        "time": "2026-04-05 14:02"
-    },
-    {
-        "id": 47616157,
-        "title": "Software never had a soul",
-        "category": "technology",
-        "score": 12,
-        "comments": 4,
-        "author": "firloop",
-        "time": "2026-04-05 14:02"
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47639303,
         "title": "Show HN: I made open source, zero power PCB hackathon badges",
         "category": "entertainment",
-        "score": 93,
-        "comments": 10,
+        "score": 115,
+        "comments": 11,
         "author": "kaipereira",
-        "time": "2026-04-05 14:02"
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47639779,
         "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
         "category": "entertainment",
-        "score": 154,
-        "comments": 76,
+        "score": 164,
+        "comments": 79,
         "author": "jrandolf",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:11"
+    },
+    {
+        "id": 47645025,
+        "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
+        "category": "entertainment",
+        "score": 77,
+        "comments": 33,
+        "author": "waveywaves",
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47642601,
         "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
         "category": "entertainment",
-        "score": 72,
-        "comments": 12,
+        "score": 95,
+        "comments": 15,
         "author": "laszlokorte",
-        "time": "2026-04-05 14:03"
-    },
-    {
-        "id": 47639567,
-        "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
-        "category": "entertainment",
-        "score": 152,
-        "comments": 6,
-        "author": "teamchong",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47637757,
         "title": "Embarrassingly simple self-distillation improves code generation",
         "category": "technology",
-        "score": 587,
-        "comments": 177,
+        "score": 607,
+        "comments": 182,
         "author": "Anon84",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:11"
+    },
+    {
+        "id": 47639567,
+        "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
+        "category": "entertainment",
+        "score": 154,
+        "comments": 6,
+        "author": "teamchong",
+        "time": "2026-04-05 17:11"
+    },
+    {
+        "id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "category": "technology",
+        "score": 1050,
+        "comments": 798,
+        "author": "firloop",
+        "time": "2026-04-05 17:11"
+    },
+    {
+        "id": 47610593,
+        "title": "Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)",
+        "category": "technology",
+        "score": 4,
+        "comments": 1,
+        "author": "benbreen",
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47606244,
@@ -96,43 +132,7 @@
         "score": 138,
         "comments": 32,
         "author": "maziyar",
-        "time": "2026-04-05 14:03"
-    },
-    {
-        "id": 47633396,
-        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-        "category": "technology",
-        "score": 1048,
-        "comments": 794,
-        "author": "firloop",
-        "time": "2026-04-05 14:03"
-    },
-    {
-        "id": 47611993,
-        "title": "VR Realizes the Cyberspace Metaphor",
-        "category": "science",
-        "score": 13,
-        "comments": 6,
-        "author": "dryadin",
-        "time": "2026-04-05 14:03"
-    },
-    {
-        "id": 47645468,
-        "title": "Writing Lisp is AI resistant and I'm sad",
-        "category": "technology",
-        "score": 64,
-        "comments": 61,
-        "author": "djha-skin",
-        "time": "2026-04-05 14:03"
-    },
-    {
-        "id": 47644726,
-        "title": "Power-washing, pool-cleaning and mowing \u2013 playing games about mundane jobs",
-        "category": "sports",
-        "score": 11,
-        "comments": 0,
-        "author": "andsoitis",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:11"
     },
     {
         "id": 47638270,
@@ -141,124 +141,142 @@
         "score": 1,
         "comments": 0,
         "author": "chitianhao",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:12"
     },
     {
-        "id": 47645235,
-        "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
-        "category": "technology",
-        "score": 46,
-        "comments": 9,
-        "author": "ingenika",
-        "time": "2026-04-05 14:03"
+        "id": 47611993,
+        "title": "VR Realizes the Cyberspace Metaphor",
+        "category": "science",
+        "score": 14,
+        "comments": 11,
+        "author": "dryadin",
+        "time": "2026-04-05 17:12"
+    },
+    {
+        "id": 47644726,
+        "title": "Power-washing, pool-cleaning and mowing \u2013 playing games about mundane jobs",
+        "category": "sports",
+        "score": 13,
+        "comments": 1,
+        "author": "andsoitis",
+        "time": "2026-04-05 17:12"
     },
     {
         "id": 47633855,
         "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
         "category": "technology",
-        "score": 389,
-        "comments": 245,
+        "score": 396,
+        "comments": 249,
         "author": "eichin",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:12"
+    },
+    {
+        "id": 47645235,
+        "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+        "category": "technology",
+        "score": 55,
+        "comments": 15,
+        "author": "ingenika",
+        "time": "2026-04-05 17:12"
     },
     {
         "id": 47645817,
         "title": "How Pope Leo is pushing back on divine justification of war",
         "category": "worldnews",
-        "score": 18,
-        "comments": 2,
+        "score": 36,
+        "comments": 22,
         "author": "1659447091",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:12"
     },
     {
         "id": 47641615,
         "title": "Sopwith \u2013 1984 Game (2000)",
         "category": "sports",
         "score": 93,
-        "comments": 40,
+        "comments": 41,
         "author": "elvis70",
-        "time": "2026-04-05 14:03"
+        "time": "2026-04-05 17:12"
+    },
+    {
+        "id": 47645468,
+        "title": "Writing Lisp is AI resistant and I'm sad",
+        "category": "technology",
+        "score": 69,
+        "comments": 71,
+        "author": "djha-skin",
+        "time": "2026-04-05 17:12"
     },
     {
         "id": 47625952,
         "title": "Show HN: I built a frontpage for personal blogs",
         "category": "entertainment",
-        "score": 755,
+        "score": 757,
         "comments": 190,
         "author": "ramkarthikk",
-        "time": "2026-04-05 14:04"
-    },
-    {
-        "id": 47641788,
-        "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
-        "category": "technology",
-        "score": 165,
-        "comments": 144,
-        "author": "lschueller",
-        "time": "2026-04-05 14:04"
-    },
-    {
-        "id": 47644934,
-        "title": "Delve claiming that whistleblower was part of a \"targeted cyberattack\"",
-        "category": "technology",
-        "score": 3,
-        "comments": 1,
-        "author": "rrvsh",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:12"
     },
     {
         "id": 47621792,
         "title": "Post Mortem: axios NPM supply chain compromise",
         "category": "technology",
-        "score": 278,
+        "score": 281,
         "comments": 131,
         "author": "JeanMeche",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:13"
     },
     {
-        "id": 47645976,
-        "title": "AI that copied musical artist files copyright claim against artist [updated]",
+        "id": 47644934,
+        "title": "Delve claiming that whistleblower was part of a \"targeted cyberattack\"",
         "category": "technology",
-        "score": 54,
-        "comments": 13,
-        "author": "josephcsible",
-        "time": "2026-04-05 14:04"
+        "score": 5,
+        "comments": 2,
+        "author": "rrvsh",
+        "time": "2026-04-05 17:13"
     },
     {
         "id": 47624645,
         "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
         "category": "technology",
-        "score": 715,
+        "score": 718,
         "comments": 146,
         "author": "franze",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:13"
+    },
+    {
+        "id": 47616157,
+        "title": "Software never had a soul",
+        "category": "technology",
+        "score": 18,
+        "comments": 16,
+        "author": "firloop",
+        "time": "2026-04-05 17:13"
     },
     {
         "id": 47633131,
         "title": "Run Linux containers on Android, no root required",
         "category": "technology",
-        "score": 211,
+        "score": 212,
         "comments": 82,
         "author": "politelemon",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:13"
+    },
+    {
+        "id": 47641788,
+        "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
+        "category": "technology",
+        "score": 169,
+        "comments": 148,
+        "author": "lschueller",
+        "time": "2026-04-05 17:13"
     },
     {
         "id": 47618223,
         "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
         "category": "technology",
         "score": 394,
-        "comments": 146,
+        "comments": 148,
         "author": "denssumesh",
-        "time": "2026-04-05 14:04"
-    },
-    {
-        "id": 47638147,
-        "title": "Show HN: Pluck \u2013 Copy any UI from any website, paste it into AI coding tools",
-        "category": "technology",
-        "score": 16,
-        "comments": 12,
-        "author": "bring-shrubbery",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:13"
     },
     {
         "id": 47622616,
@@ -267,7 +285,25 @@
         "score": 166,
         "comments": 135,
         "author": "lazydogbrownfox",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:14"
+    },
+    {
+        "id": 47638147,
+        "title": "Show HN: Pluck \u2013 Copy any UI from any website, paste it into AI coding tools",
+        "category": "technology",
+        "score": 16,
+        "comments": 13,
+        "author": "bring-shrubbery",
+        "time": "2026-04-05 17:14"
+    },
+    {
+        "id": 47647038,
+        "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
+        "category": "technology",
+        "score": 7,
+        "comments": 1,
+        "author": "mellosouls",
+        "time": "2026-04-05 17:14"
     },
     {
         "id": 47633676,
@@ -276,43 +312,16 @@
         "score": 64,
         "comments": 60,
         "author": "angst",
-        "time": "2026-04-05 14:04"
+        "time": "2026-04-05 17:14"
     },
     {
-        "id": 47645240,
-        "title": "SpaceX Pushes Back Crucial Starship Test Launch",
-        "category": "science",
-        "score": 11,
-        "comments": 4,
-        "author": "bookmtn",
-        "time": "2026-04-05 14:04"
-    },
-    {
-        "id": 47633640,
-        "title": "How to Write Unmaintainable Code (1999)",
+        "id": 47645976,
+        "title": "AI that copied musical artist files copyright claim against artist [updated]",
         "category": "technology",
-        "score": 51,
-        "comments": 16,
-        "author": "downbad_",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47645696,
-        "title": "Towards end-to-end automation of AI research",
-        "category": "technology",
-        "score": 6,
-        "comments": 0,
-        "author": "hardmaru",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47632503,
-        "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-        "category": "technology",
-        "score": 238,
-        "comments": 118,
-        "author": "upofadown",
-        "time": "2026-04-05 14:05"
+        "score": 60,
+        "comments": 14,
+        "author": "josephcsible",
+        "time": "2026-04-05 17:14"
     },
     {
         "id": 47617376,
@@ -321,43 +330,61 @@
         "score": 238,
         "comments": 190,
         "author": "surprisetalk",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:15"
     },
     {
-        "id": 47638532,
-        "title": "Show HN: Ownscribe \u2013 local meeting transcription, summarization and search",
-        "category": "entertainment",
-        "score": 11,
-        "comments": 0,
-        "author": "paberr",
-        "time": "2026-04-05 14:05"
+        "id": 47632503,
+        "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+        "category": "technology",
+        "score": 239,
+        "comments": 119,
+        "author": "upofadown",
+        "time": "2026-04-05 17:15"
+    },
+    {
+        "id": 47633640,
+        "title": "How to Write Unmaintainable Code (1999)",
+        "category": "technology",
+        "score": 51,
+        "comments": 17,
+        "author": "downbad_",
+        "time": "2026-04-05 17:15"
     },
     {
         "id": 47645926,
         "title": "The Spaceballs sequel will be released in April next year",
         "category": "science",
-        "score": 3,
+        "score": 5,
         "comments": 0,
         "author": "WaitWaitWha",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:15"
     },
     {
-        "id": 47644529,
-        "title": "Why samurai are cooler than klingons",
-        "category": "technology",
-        "score": 9,
-        "comments": 0,
-        "author": "mooreds",
-        "time": "2026-04-05 14:05"
+        "id": 47615002,
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "category": "worldnews",
+        "score": 586,
+        "comments": 208,
+        "author": "pretext",
+        "time": "2026-04-05 17:15"
     },
     {
         "id": 47626598,
         "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
         "category": "entertainment",
-        "score": 48,
+        "score": 49,
         "comments": 52,
         "author": "luca-ctx",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:15"
+    },
+    {
+        "id": 47618189,
+        "title": "Tailscale's new macOS home",
+        "category": "technology",
+        "score": 561,
+        "comments": 306,
+        "author": "tosh",
+        "time": "2026-04-05 17:15"
     },
     {
         "id": 47635033,
@@ -366,34 +393,34 @@
         "score": 92,
         "comments": 37,
         "author": "borski",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47615002,
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "category": "worldnews",
-        "score": 585,
-        "comments": 207,
-        "author": "pretext",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47618189,
-        "title": "Tailscale's new macOS home",
-        "category": "technology",
-        "score": 560,
-        "comments": 306,
-        "author": "tosh",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:15"
     },
     {
         "id": 47617415,
         "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
         "category": "technology",
         "score": 363,
-        "comments": 198,
+        "comments": 199,
         "author": "sedev",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:15"
+    },
+    {
+        "id": 47638532,
+        "title": "Show HN: Ownscribe \u2013 local meeting transcription, summarization and search",
+        "category": "entertainment",
+        "score": 11,
+        "comments": 0,
+        "author": "paberr",
+        "time": "2026-04-05 17:15"
+    },
+    {
+        "id": 47609564,
+        "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+        "category": "sports",
+        "score": 780,
+        "comments": 365,
+        "author": "hkmaxpro",
+        "time": "2026-04-05 17:16"
     },
     {
         "id": 47627419,
@@ -402,16 +429,34 @@
         "score": 46,
         "comments": 11,
         "author": "cmitsakis",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:16"
     },
     {
-        "id": 47609564,
-        "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+        "id": 47640770,
+        "title": "Show HN: DocMason \u2013 Agent Knowledge Base for local complex office files",
+        "category": "entertainment",
+        "score": 7,
+        "comments": 0,
+        "author": "Jet_Xu",
+        "time": "2026-04-05 17:16"
+    },
+    {
+        "id": 47645240,
+        "title": "SpaceX Pushes Back Crucial Starship Test Launch",
+        "category": "science",
+        "score": 11,
+        "comments": 5,
+        "author": "bookmtn",
+        "time": "2026-04-05 17:16"
+    },
+    {
+        "id": 47642552,
+        "title": "Nandgame \u2013 Build a Computer from Scratch",
         "category": "sports",
-        "score": 779,
-        "comments": 364,
-        "author": "hkmaxpro",
-        "time": "2026-04-05 14:05"
+        "score": 5,
+        "comments": 0,
+        "author": "Vortigaunt",
+        "time": "2026-04-05 17:16"
     },
     {
         "id": 47609492,
@@ -420,43 +465,16 @@
         "score": 23,
         "comments": 5,
         "author": "defrost",
-        "time": "2026-04-05 14:05"
+        "time": "2026-04-05 17:16"
     },
     {
-        "id": 47640722,
-        "title": "12k AI-generated blog posts added in a single commit",
+        "id": 47644529,
+        "title": "Why samurai are cooler than klingons",
         "category": "technology",
-        "score": 145,
-        "comments": 144,
-        "author": "noslop",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47645100,
-        "title": "Mission to Recover Downed F-15E Aircrew",
-        "category": "technology",
-        "score": 7,
+        "score": 9,
         "comments": 0,
-        "author": "everybodyknows",
-        "time": "2026-04-05 14:05"
-    },
-    {
-        "id": 47640770,
-        "title": "Show HN: DocMason \u2013 Agent Knowledge Base for local complex office files",
-        "category": "entertainment",
-        "score": 6,
-        "comments": 0,
-        "author": "Jet_Xu",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47645251,
-        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
-        "category": "technology",
-        "score": 4,
-        "comments": 0,
-        "author": "vinhnx",
-        "time": "2026-04-05 14:06"
+        "author": "mooreds",
+        "time": "2026-04-05 17:16"
     },
     {
         "id": 47625244,
@@ -465,7 +483,7 @@
         "score": 239,
         "comments": 138,
         "author": "nickslaughter02",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:16"
     },
     {
         "id": 47625311,
@@ -474,16 +492,16 @@
         "score": 44,
         "comments": 24,
         "author": "tosh",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:17"
     },
     {
-        "id": 47632692,
-        "title": "Show HN: Mtproto.zig \u2013 High-performance Telegram proxy with DPI evasion",
-        "category": "entertainment",
-        "score": 21,
-        "comments": 14,
-        "author": "slp3r",
-        "time": "2026-04-05 14:06"
+        "id": 47645696,
+        "title": "Towards end-to-end automation of AI research",
+        "category": "technology",
+        "score": 6,
+        "comments": 0,
+        "author": "hardmaru",
+        "time": "2026-04-05 17:17"
     },
     {
         "id": 47611921,
@@ -492,25 +510,16 @@
         "score": 313,
         "comments": 155,
         "author": "stratos123",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:17"
     },
     {
-        "id": 47631030,
-        "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+        "id": 47632692,
+        "title": "Show HN: Mtproto.zig \u2013 High-performance Telegram proxy with DPI evasion",
         "category": "entertainment",
-        "score": 35,
-        "comments": 23,
-        "author": "sagirodin",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47620933,
-        "title": "Memo: A language that remembers only the last 12 lines of code",
-        "category": "technology",
-        "score": 57,
-        "comments": 36,
-        "author": "notem",
-        "time": "2026-04-05 14:06"
+        "score": 21,
+        "comments": 14,
+        "author": "slp3r",
+        "time": "2026-04-05 17:17"
     },
     {
         "id": 47606560,
@@ -519,43 +528,43 @@
         "score": 152,
         "comments": 117,
         "author": "kasparnoor",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:17"
     },
     {
-        "id": 47640984,
-        "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+        "id": 47620933,
+        "title": "Memo: A language that remembers only the last 12 lines of code",
         "category": "technology",
-        "score": 46,
-        "comments": 17,
-        "author": "uxhacker",
-        "time": "2026-04-05 14:06"
+        "score": 57,
+        "comments": 36,
+        "author": "notem",
+        "time": "2026-04-05 17:17"
+    },
+    {
+        "id": 47640722,
+        "title": "12k AI-generated blog posts added in a single commit",
+        "category": "technology",
+        "score": 146,
+        "comments": 145,
+        "author": "noslop",
+        "time": "2026-04-05 17:17"
+    },
+    {
+        "id": 47631030,
+        "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+        "category": "entertainment",
+        "score": 35,
+        "comments": 23,
+        "author": "sagirodin",
+        "time": "2026-04-05 17:17"
     },
     {
         "id": 47621438,
         "title": "Show HN: Made a little Artemis II tracker",
         "category": "entertainment",
         "score": 149,
-        "comments": 55,
+        "comments": 56,
         "author": "codingmoh",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47639207,
-        "title": "Show HN: Tokencap \u2013 Token budget enforcement across your AI agents",
-        "category": "technology",
-        "score": 7,
-        "comments": 0,
-        "author": "pykul",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47632504,
-        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-        "category": "technology",
-        "score": 96,
-        "comments": 39,
-        "author": "Bender",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:17"
     },
     {
         "id": 47604155,
@@ -564,16 +573,7 @@
         "score": 397,
         "comments": 572,
         "author": "nutjob2",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47643347,
-        "title": "OpenRouter Raises $120M at a $1.3B Valuation",
-        "category": "technology",
-        "score": 9,
-        "comments": 7,
-        "author": "ryanatallah",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:17"
     },
     {
         "id": 47609694,
@@ -582,34 +582,79 @@
         "score": 369,
         "comments": 103,
         "author": "jaden",
-        "time": "2026-04-05 14:06"
+        "time": "2026-04-05 17:18"
     },
     {
-        "id": 47638498,
-        "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
-        "category": "entertainment",
-        "score": 4,
-        "comments": 2,
-        "author": "fsloth",
-        "time": "2026-04-05 14:06"
-    },
-    {
-        "id": 47592755,
-        "title": "OpenAI closes funding round at an $852B valuation",
+        "id": 47632504,
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
         "category": "technology",
-        "score": 526,
-        "comments": 493,
-        "author": "surprisetalk",
-        "time": "2026-04-05 14:07"
+        "score": 96,
+        "comments": 39,
+        "author": "Bender",
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47640984,
+        "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+        "category": "technology",
+        "score": 46,
+        "comments": 17,
+        "author": "uxhacker",
+        "time": "2026-04-05 17:18"
     },
     {
         "id": 47635340,
         "title": "Let's be Honest about AI Coding",
         "category": "technology",
-        "score": 22,
+        "score": 23,
         "comments": 3,
         "author": "lordofmoria",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47645100,
+        "title": "Mission to Recover Downed F-15E Aircrew",
+        "category": "technology",
+        "score": 7,
+        "comments": 0,
+        "author": "everybodyknows",
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47592755,
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "category": "technology",
+        "score": 527,
+        "comments": 493,
+        "author": "surprisetalk",
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47639207,
+        "title": "Show HN: Tokencap \u2013 Token budget enforcement across your AI agents",
+        "category": "technology",
+        "score": 7,
+        "comments": 0,
+        "author": "pykul",
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47612558,
+        "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
+        "category": "technology",
+        "score": 87,
+        "comments": 30,
+        "author": "ronfriedhaber",
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47645251,
+        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+        "category": "technology",
+        "score": 4,
+        "comments": 0,
+        "author": "vinhnx",
+        "time": "2026-04-05 17:18"
     },
     {
         "id": 47599510,
@@ -618,7 +663,16 @@
         "score": 128,
         "comments": 121,
         "author": "thinkingemote",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:18"
+    },
+    {
+        "id": 47638498,
+        "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+        "category": "entertainment",
+        "score": 4,
+        "comments": 2,
+        "author": "fsloth",
+        "time": "2026-04-05 17:18"
     },
     {
         "id": 47589856,
@@ -627,7 +681,16 @@
         "score": 202,
         "comments": 56,
         "author": "tjgreen",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:19"
+    },
+    {
+        "id": 47643347,
+        "title": "OpenRouter Raises $120M at a $1.3B Valuation",
+        "category": "technology",
+        "score": 9,
+        "comments": 7,
+        "author": "ryanatallah",
+        "time": "2026-04-05 17:19"
     },
     {
         "id": 47612321,
@@ -636,25 +699,16 @@
         "score": 113,
         "comments": 65,
         "author": "rdme",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:19"
     },
     {
         "id": 47623101,
         "title": "A Rave Review of Superpowers (For Claude Code)",
         "category": "technology",
-        "score": 46,
+        "score": 47,
         "comments": 25,
         "author": "emschwartz",
-        "time": "2026-04-05 14:07"
-    },
-    {
-        "id": 47620039,
-        "title": "Reporting potholes with an ESP32, LoRA, and AI",
-        "category": "technology",
-        "score": 33,
-        "comments": 0,
-        "author": "flakespancakes",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:19"
     },
     {
         "id": 47603737,
@@ -663,7 +717,25 @@
         "score": 223,
         "comments": 117,
         "author": "latchkey",
-        "time": "2026-04-05 14:07"
+        "time": "2026-04-05 17:19"
+    },
+    {
+        "id": 47620039,
+        "title": "Reporting potholes with an ESP32, LoRA, and AI",
+        "category": "technology",
+        "score": 33,
+        "comments": 0,
+        "author": "flakespancakes",
+        "time": "2026-04-05 17:19"
+    },
+    {
+        "id": 47592462,
+        "title": "I traced my traffic through a home Tailscale exit node",
+        "category": "technology",
+        "score": 155,
+        "comments": 72,
+        "author": "stonecharioteer",
+        "time": "2026-04-05 17:19"
     },
     {
         "id": 47615844,
@@ -672,43 +744,7 @@
         "score": 39,
         "comments": 22,
         "author": "Realman78",
-        "time": "2026-04-05 14:07"
-    },
-    {
-        "id": 47636820,
-        "title": "Show HN: Web Push Notifications for Hacker News",
-        "category": "entertainment",
-        "score": 4,
-        "comments": 1,
-        "author": "kinlan",
-        "time": "2026-04-05 14:07"
-    },
-    {
-        "id": 47592462,
-        "title": "I traced my traffic through a home Tailscale exit node",
-        "category": "technology",
-        "score": 154,
-        "comments": 72,
-        "author": "stonecharioteer",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47632750,
-        "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
-        "category": "entertainment",
-        "score": 100,
-        "comments": 43,
-        "author": "hpscript",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47617217,
-        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
-        "category": "technology",
-        "score": 36,
-        "comments": 6,
-        "author": "j0rg3",
-        "time": "2026-04-05 14:08"
+        "time": "2026-04-05 17:19"
     },
     {
         "id": 47593422,
@@ -717,25 +753,34 @@
         "score": 425,
         "comments": 151,
         "author": "PrismML",
-        "time": "2026-04-05 14:08"
+        "time": "2026-04-05 17:20"
     },
     {
-        "id": 47634328,
-        "title": "Show HN: DotReader \u2013 connects ideas across your books automatically",
+        "id": 47617217,
+        "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
+        "category": "technology",
+        "score": 36,
+        "comments": 6,
+        "author": "j0rg3",
+        "time": "2026-04-05 17:20"
+    },
+    {
+        "id": 47632750,
+        "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
+        "category": "entertainment",
+        "score": 100,
+        "comments": 43,
+        "author": "hpscript",
+        "time": "2026-04-05 17:20"
+    },
+    {
+        "id": 47636820,
+        "title": "Show HN: Web Push Notifications for Hacker News",
         "category": "entertainment",
         "score": 5,
-        "comments": 2,
-        "author": "efecerre",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47639224,
-        "title": "Intelligence Cannot Be Trained?",
-        "category": "technology",
-        "score": 7,
-        "comments": 6,
-        "author": "hyperzzw",
-        "time": "2026-04-05 14:08"
+        "comments": 1,
+        "author": "kinlan",
+        "time": "2026-04-05 17:20"
     },
     {
         "id": 47629608,
@@ -744,52 +789,16 @@
         "score": 50,
         "comments": 10,
         "author": "liz_ifixit",
-        "time": "2026-04-05 14:08"
+        "time": "2026-04-05 17:20"
     },
     {
-        "id": 47631011,
-        "title": "PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free",
-        "category": "technology",
-        "score": 15,
-        "comments": 5,
-        "author": "mettamage",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47643365,
-        "title": "Should you upload blood test results to AI?",
-        "category": "technology",
+        "id": 47634328,
+        "title": "Show HN: DotReader \u2013 connects ideas across your books automatically",
+        "category": "entertainment",
         "score": 5,
-        "comments": 1,
-        "author": "bookofjoe",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47634240,
-        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
-        "category": "technology",
-        "score": 30,
-        "comments": 4,
-        "author": "diehunde",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47633734,
-        "title": "ENiGMA\u00bd BBS Software",
-        "category": "technology",
-        "score": 10,
-        "comments": 1,
-        "author": "NuSkooler",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47633715,
-        "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
-        "category": "technology",
-        "score": 35,
-        "comments": 8,
-        "author": "heavyset_go",
-        "time": "2026-04-05 14:08"
+        "comments": 2,
+        "author": "efecerre",
+        "time": "2026-04-05 17:20"
     },
     {
         "id": 47618221,
@@ -798,25 +807,16 @@
         "score": 133,
         "comments": 101,
         "author": "gostsamo",
-        "time": "2026-04-05 14:08"
+        "time": "2026-04-05 17:20"
     },
     {
-        "id": 47618247,
-        "title": "Show HN: SyNumpy \u2013 a Header only C++17 library for working with NumPy Arrays",
-        "category": "entertainment",
-        "score": 21,
-        "comments": 4,
-        "author": "symisc_devel",
-        "time": "2026-04-05 14:08"
-    },
-    {
-        "id": 47632901,
-        "title": "Sandbox Strategy Game for AI",
+        "id": 47631011,
+        "title": "PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free",
         "category": "technology",
-        "score": 6,
-        "comments": 0,
-        "author": "Stefan_Golas",
-        "time": "2026-04-05 14:08"
+        "score": 15,
+        "comments": 5,
+        "author": "mettamage",
+        "time": "2026-04-05 17:20"
     },
     {
         "id": 47588349,
@@ -825,25 +825,52 @@
         "score": 146,
         "comments": 50,
         "author": "homebrewer",
-        "time": "2026-04-05 14:08"
+        "time": "2026-04-05 17:20"
     },
     {
-        "id": 47630582,
-        "title": "Three main saturated fats raise your cholesterol",
-        "category": "technology",
-        "score": 47,
-        "comments": 13,
-        "author": "brandonb",
-        "time": "2026-04-05 14:08"
+        "id": 47618247,
+        "title": "Show HN: SyNumpy \u2013 a Header only C++17 library for working with NumPy Arrays",
+        "category": "entertainment",
+        "score": 21,
+        "comments": 4,
+        "author": "symisc_devel",
+        "time": "2026-04-05 17:20"
     },
     {
-        "id": 47623053,
-        "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
+        "id": 47634240,
+        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
         "category": "technology",
-        "score": 25,
-        "comments": 14,
-        "author": "arttaboi",
-        "time": "2026-04-05 14:09"
+        "score": 30,
+        "comments": 4,
+        "author": "diehunde",
+        "time": "2026-04-05 17:21"
+    },
+    {
+        "id": 47633715,
+        "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
+        "category": "technology",
+        "score": 35,
+        "comments": 8,
+        "author": "heavyset_go",
+        "time": "2026-04-05 17:21"
+    },
+    {
+        "id": 47633734,
+        "title": "ENiGMA\u00bd BBS Software",
+        "category": "technology",
+        "score": 10,
+        "comments": 1,
+        "author": "NuSkooler",
+        "time": "2026-04-05 17:21"
+    },
+    {
+        "id": 47639224,
+        "title": "Intelligence Cannot Be Trained?",
+        "category": "technology",
+        "score": 7,
+        "comments": 7,
+        "author": "hyperzzw",
+        "time": "2026-04-05 17:21"
     },
     {
         "id": 47607394,
@@ -852,51 +879,24 @@
         "score": 40,
         "comments": 6,
         "author": "ruevs",
-        "time": "2026-04-05 14:09"
+        "time": "2026-04-05 17:21"
     },
     {
         "id": 47587866,
         "title": "Microsoft: Copilot is for entertainment purposes only",
         "category": "technology",
-        "score": 578,
+        "score": 579,
         "comments": 200,
         "author": "lpcvoid",
-        "time": "2026-04-05 14:09"
+        "time": "2026-04-05 17:21"
     },
     {
-        "id": 47629505,
-        "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+        "id": 47623053,
+        "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
         "category": "technology",
-        "score": 75,
-        "comments": 32,
-        "author": "anonhaven",
-        "time": "2026-04-05 14:09"
-    },
-    {
-        "id": 47637472,
-        "title": "European Commission cloud breach: a supply-chain compromise",
-        "category": "technology",
-        "score": 16,
-        "comments": 0,
-        "author": "Sandman",
-        "time": "2026-04-05 14:09"
-    },
-    {
-        "id": 47603966,
-        "title": "Show HN: Flight-Viz \u2013 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-        "category": "entertainment",
-        "score": 88,
-        "comments": 45,
-        "author": "coolwulf",
-        "time": "2026-04-05 14:09"
-    },
-    {
-        "id": 47594936,
-        "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
-        "category": "technology",
-        "score": 52,
-        "comments": 50,
-        "author": "cg505",
-        "time": "2026-04-05 14:09"
+        "score": 25,
+        "comments": 14,
+        "author": "arttaboi",
+        "time": "2026-04-05 17:21"
     }
 ]
